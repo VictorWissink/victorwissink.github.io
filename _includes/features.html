@@ -1,0 +1,18 @@
+<main>
+  {% for feature in site.features %}
+    <hr id='{{ feature.id }}'>
+
+    <section>
+      <div class='featureImage {% cycle 'pull-left', 'pull-right' %} {% if forloop.first %}first{% endif %}' style="background-image: url('{{ feature.image }}')">
+      </div>
+
+      <div class="card {% cycle 'pull-right', 'pull-left' %}">
+      <h2>{{ feature.heading }}<span>{{ feature.highlight }}</span></h2>
+      <div class='lead'>{{ feature.content }}</div>
+      </div>
+
+    </section>
+  {% endfor %}
+
+  <hr>
+</main>

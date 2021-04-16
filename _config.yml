@@ -1,0 +1,15 @@
+title: Victor Wissink
+description: Designer, musician, engineer, runner and bread baker
+sitename: Victor Wissink
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
