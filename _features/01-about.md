@@ -6,5 +6,8 @@ highlight: Victor
 image: "/assets/images/victor.jpg"
 ---
 
-I'm an always-curious software engineer, digital designer and bread making aficionado.
-Apart from that, I have experience playing in semi-professional bands, playing the drums, and like to go on long runs.
+A software engineer and digital designer.
+
+Based in Berlin, I am currently working as a QA Engineer for Wire.
+
+Apart from that, I have experience playing in semi-professional bands and like to go on long runs.
