@@ -18,8 +18,8 @@ Currently I am working as an Engineer in Test for Wire. Here I am mainly respons
 | HTML             | Jira               |
 | CSS              | Terminal           |
 | JS               | After Effects      |
-| Angular          | Affinnity Photo    |
-| Groovy           | Affinnity Designer |
+| Angular          | Affinity Photo     |
+| Groovy           | Affinity Designer  |
 | SwiftUI          |                    |
 | Swift            |                    |
 | Spring Framework |                    |
