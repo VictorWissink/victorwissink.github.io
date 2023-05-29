@@ -49,8 +49,17 @@ body {
   }
 }
 
-
 main {
+      margin: 0;
+      padding: 0;
+      max-width: 1680px;
+      min-width: 320px;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+
+.featuresContainer {
 
 /* index area start */
 
@@ -113,6 +122,9 @@ main {
   }
 } 
 
+.\/features\/02-experienceImage {
+  background-size: auto 100%;
+}
 
 /* responsive area start */
 
@@ -149,11 +161,14 @@ main {
   }
 
   @media(min-width:991px) {
-    .featuresContainer { 
     background-color: #5a5a5a; 
+
+    footer {
+      background-color: white;
+      max-width: 1680px;
+      margin: 0px;
     }
-
-
+   
     .container {
       width: 100%;
     }
@@ -207,7 +222,6 @@ main {
         margin-left: 10px;
         margin-right: 47px;}
     }
-
   }
 
   @media(min-width: 1200px) {

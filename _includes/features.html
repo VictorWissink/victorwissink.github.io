@@ -3,7 +3,7 @@
     <hr id='{{ feature.id }}'>
 
     <section>
-      <div class='featureImage {% cycle 'pull-right', 'pull-left' %} {% if forloop.first %}first{% endif %}' style="background-image: url('{{ feature.image }}')">
+      <div class='featureImage {{ feature.id }}Image {% cycle 'pull-right', 'pull-left' %} {% if forloop.first %}first{% endif %}' style="background-image: url('{{ feature.image }}')">
       </div>
 
       <div class="card {% cycle 'pull-left', 'pull-right' %}">
