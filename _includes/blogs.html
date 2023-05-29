@@ -1,0 +1,15 @@
+<main>
+  {% for blog in site.blogs %}
+    <hr id='{{ blog.id }}'>
+
+    <section>
+      <div class='blogImage' style="background-image: url('{{ blog.image }}')">
+      </div>
+      <h2 class='blogHeader'>{{ blog.heading }}<span>{{ blog.highlight }}</span></h2>
+      <div class='intro'>{{ blog.intro }}</div>
+      <div class='lead'>{{ blog.content }}</div>
+    </section>
+  {% endfor %}
+
+  <hr>
+</main>

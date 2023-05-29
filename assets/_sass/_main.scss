@@ -4,6 +4,41 @@ $secondary-color: #F2F2F2;
 $highlight-color: #00AAFF;
 
 body {
+
+  /* blog area start */
+  .blogContainer {
+
+    section { 
+      padding-top: 40px;
+      width: 70%;
+      max-width: 940px;
+      margin: auto;    
+
+    h2 {
+        font-size: 45px;
+        color: black;
+        span {
+              color: $base-color;
+              padding-left: 0.2em;
+              font-size: 0.8em;
+              display: inline;
+        }
+    }
+
+    .blogImage {
+      background-position: center;
+      height: 220px;
+      background-size: cover;
+     }   
+
+    .intro {
+      font-size: 1.6em;
+      line-height: 1.2em;
+    }
+  }
+
+
+
   .featuresContainer {
       margin: 0;
       padding: 0;
@@ -12,9 +47,12 @@ body {
       margin-left: auto;
       margin-right: auto;
   }
+}
 
 
 main {
+
+/* index area start */
 
   section { overflow: hidden; }
 
@@ -73,13 +111,10 @@ main {
         margin-right: auto;
       }
   }
+} 
 
-  }
 
-  a { 
-    color: $highlight-color;
-    font-weight: bold;
-  }
+/* responsive area start */
 
   @media(min-width:375px) {
 
@@ -114,7 +149,9 @@ main {
   }
 
   @media(min-width:991px) {
-    background-color: #5a5a5a;
+    .featuresContainer { 
+    background-color: #5a5a5a; 
+    }
 
 
     .container {
