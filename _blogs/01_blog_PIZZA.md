@@ -5,10 +5,12 @@ name: Pizza from Developer perspective
 heading: The Art and Science of Pizza
 highlight: A Developer's Take
 image: "/assets/images/blog/pizza.jpg"
-intro: Hello folks! It's Victor Wissink here, your go-to tech guy and devoted pizza aficionado. When I'm not elbow-deep in code, you can often find me in the kitchen, exploring my passion for creating the perfect pizza. In today's post, I'll be guiding you through the art and science of making a pizza that will not only satisfy your taste buds but also your intellectual curiosity.
+intro: Since the launch of ChatGPT, I've been having a blast writing articles in different styles, mirroring various personas. Recently, while I was updating my website, a fun idea hit me. Why not feed ChatGPT the contents of my entire site and see if it could whip up an article about one of my favorite things - pizza? The result was better than I could've imagined, drawing an unexpected and delightful parallel between pizza creation and coding. Although the AI didn't nail my tone of voice perfectly, the piece was too entertaining and insightful not to share. So, here it is - an AI-generated dive into the art and science of pizza, sprinkled with a dash of coding analogies! Dig in!
 ---
 
+## Pizza Analogy
 
+Hello folks! It's Victor Wissink here, your go-to tech guy and devoted pizza aficionado. When I'm not elbow-deep in code, you can often find me in the kitchen, exploring my passion for creating the perfect pizza. In today's post, I'll be guiding you through the art and science of making a pizza that will not only satisfy your taste buds but also your intellectual curiosity.
 
 ### Pizza: A Delicious Palette for Creativity
 

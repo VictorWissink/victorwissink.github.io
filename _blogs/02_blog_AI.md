@@ -1,11 +1,11 @@
 ---
 id: blog_AI_01
 topic: Artificial Intelligence
-name: blog1
+name: Productivity with AI
 heading: Boosting Productivity with AI
 highlight: A Software Engineer's Perspective
 image: "/assets/images/contact.jpg"
-intro: Hello everyone! I'm Victor Wissink, a seasoned software engineer currently leading the Quality Assurance Team at Wire, and I've always had a fascination with the intersection of technology and productivity. Today, I want to share some insights into how Artificial Intelligence (AI) can dramatically enhance our productivity, both in personal and professional environments.
+intro: Note; this is a filler article for debugging purposes. A proper article will folow //// Hello everyone! I'm Victor Wissink, a seasoned software engineer currently leading the Quality Assurance Team at Wire, and I've always had a fascination with the intersection of technology and productivity. Today, I want to share some insights into how Artificial Intelligence (AI) can dramatically enhance our productivity, both in personal and professional environments.
 ---
 
 ### Automation Is The Name Of The Game
