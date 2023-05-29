@@ -3,20 +3,21 @@ id: experience
 name: Experience
 heading: My
 highlight: Experience
-image: "/assets/images/wire.jpg"
+image: "/assets/images/Wire_W.png"
 ---
 
-Currently I am working as an Engineer in Test for Wire. Here I am mainly responsible for maintaining and automating for the iOS platform, and guiding Junior QA Engineers to improve their skills. Apart from that, I also maintain and automate for Android and Web, using Appium and Selenium Webdriver Agent. I'm also always looking for improvements to help our team function better.
+As the Team Lead QA Engineer at Wire, I set the vision, delegate tasks, and ensure our iOS platform's automation and maintenance. My responsibilities also extend to mentoring junior QA engineers, helping them grow their skills. Our tech stack includes Appium, Selenium Webdriver Agent, Jenkins, and Java. I'm passionate about identifying and implementing improvements for our team's efficiency.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/victor-wi/)
 
+My toolbox is extensive, with proficiency ranging from intermediate to expert across several languages, frameworks, and design tools:
 
 |Skills            |Tools               |
 |------------------|--------------------|
-| Java             |Photoshop           |
+| Java             | Photoshop          |
 | Cucumber         | Appium             |
 | HTML             | Jira               |
-| CSS              | Terminal           |
+| CSS              | Bash               |
 | JS               | After Effects      |
 | Angular          | Affinity Photo     |
 | Groovy           | Affinity Designer  |
