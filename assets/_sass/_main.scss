@@ -36,20 +36,9 @@ body {
       line-height: 1.2em;
     }
   }
-
-
-
-  .featuresContainer {
-      margin: 0;
-      padding: 0;
-      max-width: 1680px;
-      min-width: 320px;
-      margin-left: auto;
-      margin-right: auto;
-  }
 }
 
-main {
+.featureContent {
       margin: 0;
       padding: 0;
       max-width: 1680px;
@@ -60,6 +49,10 @@ main {
 
 
 .featuresContainer {
+    background-color: white;
+}
+
+.featureContent {
 
 /* index area start */
 
@@ -162,12 +155,6 @@ main {
 
   @media(min-width:991px) {
     background-color: #5a5a5a; 
-
-    footer {
-      background-color: white;
-      max-width: 1680px;
-      margin: 0px;
-    }
    
     .container {
       width: 100%;
@@ -254,4 +241,8 @@ main {
 
   }
 }
+}
+
+.copyright { 
+      text-align: center;
 }
