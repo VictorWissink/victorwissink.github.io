@@ -12,8 +12,7 @@ I enlivened this music producer's website with dynamic animations, creating an i
 ### [yoriyoi.shop](https://github.com/VictorWissink/YoriYoiLanding)
 For this start-up clothing brand, I created an easy-to-navigate, card-based interface using CSS grid, enhancing the scalability and flexibility of the website design.
 <img src="assets/images/yoriyoiComp.gif" alt="GIF showing YoriYoi Web Page" style="
-    width: 80%;
-    margin-left: 12px;
+    width: 100%;
     ">
 
 
