@@ -2,8 +2,8 @@
 id: blog_AI_01
 topic: Artificial Intelligence
 name: Productivity with AI
-heading: Accelerating Workflows with 
-highlight: AI Tools
+heading: Accelerating Workflows
+highlight: with AI Tools
 image: "/assets/images/contact.jpg"
 intro: In the dynamic world of AI and automation, we all aim to find the best tools that can enhance and accelerate our workflows. Here, I'll share some of the tools I use to get the most out of my time and resources, especially focusing on the exciting opportunities offered by AI.
 ---
