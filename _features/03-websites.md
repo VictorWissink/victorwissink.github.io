@@ -2,7 +2,7 @@
 id: projects
 name: My Projects
 heading: My
-highlight: Websites
+highlight: Websites🖼
 image: "/assets/images/yoriyoi.jpg"
 ---
 
@@ -10,7 +10,7 @@ image: "/assets/images/yoriyoi.jpg"
 I enlivened this music producer's website with dynamic animations, creating an immersive user experience while showcasing his artistic prowess.
 
 ### [yoriyoi.shop](https://www.yoriyoi.shop)
-For this start-up clothing brand, I created an easy-to-navigate, card-based interface using CSS grid, enhancing the scalability and flexibility of the website design.
+For this start-up clothing brand, I created an easy-to-navigate, card-based interface using CSS grid, enhancing the scalability and flexibility of the website design.![GIF showing YoriYoi Web Page](assets/images/yoriyoi2.gif)
 
 
 ### [mauricehendriks.com](https://www.mauricehendriks.com)

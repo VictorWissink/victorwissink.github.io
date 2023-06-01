@@ -4,6 +4,8 @@ $secondary-color: #F2F2F2;
 $highlight-color: #00AAFF;
 
 body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: normal;
 
   /* blog area start */
   .blogContainer {
@@ -54,6 +56,11 @@ body {
 
 .featureContent {
 
+
+   h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+   }
 /* index area start */
 
   section { overflow: hidden; }
@@ -90,10 +97,10 @@ body {
             display: inherit;
       }
       padding-left: 12px;
-      font-size: 25px;
+      font-size: 35px;
       color: $secondary-color;
 
-      width: 50%;
+      width: 75%;
     }
     .lead {
       padding-left: 10px;
@@ -196,7 +203,7 @@ body {
               display: inline;
         }
         padding-left: 12px;
-        font-size: 25px;
+        font-size: 35px;
         color: black;
       }
 

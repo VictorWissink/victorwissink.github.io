@@ -2,7 +2,7 @@
 id: experience
 name: Experience
 heading: My
-highlight: Experience
+highlight: Experience👨‍💻
 image: "/assets/images/Wire_W.png"
 ---
 

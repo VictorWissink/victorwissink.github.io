@@ -1,8 +1,8 @@
 ---
 id: contact
 name: Contact
-heading: My
-highlight: Contact
+heading: My  
+highlight: Contact🏡 
 image: "/assets/images/contact.jpg"
 ---
 
