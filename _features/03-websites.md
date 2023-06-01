@@ -9,8 +9,12 @@ image: "/assets/images/yoriyoi.jpg"
 ### [joshhendriks.com](https://www.joshhendriks.com)
 I enlivened this music producer's website with dynamic animations, creating an immersive user experience while showcasing his artistic prowess.
 
-### [yoriyoi.shop](https://www.yoriyoi.shop)
-For this start-up clothing brand, I created an easy-to-navigate, card-based interface using CSS grid, enhancing the scalability and flexibility of the website design.![GIF showing YoriYoi Web Page](assets/images/yoriyoi.gif)
+### [yoriyoi.shop](https://github.com/VictorWissink/YoriYoiLanding)
+For this start-up clothing brand, I created an easy-to-navigate, card-based interface using CSS grid, enhancing the scalability and flexibility of the website design.
+<img src="assets/images/yoriyoiComp.gif" alt="GIF showing YoriYoi Web Page" style="
+    width: 80%;
+    margin-left: 12px;
+    ">
 
 
 ### [mauricehendriks.com](https://www.mauricehendriks.com)
